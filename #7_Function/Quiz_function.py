@@ -38,3 +38,5 @@ height = 175 # cm 단위
 gender = "남자"
 weight = round(std_weight(height / 100, gender), 2)
 print(f"키 {height}cm {gender}의 표준 체충은 {weight}kg 입니다.")
+
+#change test
